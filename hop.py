@@ -118,7 +118,7 @@ def tlogin():
 	if passw =="":
 		print"\033[1;91m[!] Wrong"
 		exit()
-	elif passw =="1626":
+	elif passw =="sajid":
 		hamza('[✔] Tool Login Successful')
 		os.system('xdg-open https://wa.me/+15018889032')
 		time.sleep(0.1)
