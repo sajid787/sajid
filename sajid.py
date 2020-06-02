@@ -300,7 +300,7 @@ def men():
 		os.system('cd hop')
 		os.system('python2 hop.py')
 	elif rana =="5":
-		os.system('xdg-open https://www.facebook.com/muhammad.hamza1626')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100028340285191')
 		menu()
 	elif rana =="6":
 		os.system('rm -rf out')
